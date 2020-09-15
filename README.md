@@ -1,10 +1,10 @@
-# Lidar point cloud to Voxel for 3D Reconstruction
+# Lidar point cloud to Voxel for 3D Reconstruction and mapping
 
+Following is the work done by me while working as Research Intern at IHMC. 
 
-Meta tool is a robot adaptive tool, 
+The pipeline of the work is as following:
 
-
-![](visualize/pointCloudToVoxel.jpg)
+![Pipeline](visualize/pointCloudToVoxel.jpg)
 
 # Output
 
