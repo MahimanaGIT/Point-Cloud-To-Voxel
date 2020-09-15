@@ -1,4 +1,5 @@
-# Meta-Tool-IHMC
+# Lidar point cloud to Voxel for 3D Reconstruction
+
 
 Meta tool is a robot adaptive tool, 
 
